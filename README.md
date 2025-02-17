@@ -150,17 +150,29 @@ CopyEdit
 AI-Betting-Helper/
 
 │-- \_src/scss/    # SCSS files for styling
+
 │-- assets/        # Project assets (icons, graphics)
+
 │-- blog/          # Betting insights and AI strategy discussions
+
 │-- css/           # Frontend stylesheets
+
 │-- docs/          # Documentation and guides
+
 │-- js/            # JavaScript logic and scripts
+
 │-- php/           # Backend API calls for betting data
+
 │-- .gitignore     # Git ignore file for untracked files
+
 │-- oldTemplate/   # Previous AI models and templates
+
 │-- LICENSE        # License details
+
 │-- README.md      # Project README file
+
 │-- index.html     # Main entry point for frontend UI
+
 
 
 ## Community Contributions
